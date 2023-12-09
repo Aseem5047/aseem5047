@@ -1,4 +1,4 @@
-![MasterHead](https://avatars.githubusercontent.com/u/80787027?v=4)
+![MasterHead](https://drive.google.com/file/d/1i63EmPhxrRuIyCRXRHn_EnUEhjQV6AcH/view?usp=sharing)
 
 <h1 align="center">Hi 👋, I'm Aseem Gupta</h1>
 <h3 align="center">A passionate frontend deveI craft digital experiences from lines of code, turning ideas into interactive websites and applications. My passion lies in bringing functionality to life.loper from India</h3>
