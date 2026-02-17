@@ -43,7 +43,7 @@ Docker | AWS | GCP | CI/CD
 Jest | React Testing Library  
 
 #### **Other**
-AI/ML | System Design Basics  
+AI/ML | System Design  
 
 ---
 
