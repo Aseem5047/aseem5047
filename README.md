@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Aseem Gupta</h1>
 
 <h3 align="center">
-  Full-Stack Engineer focused on scalable web applicaJons, cloud automaJon, and seamless producJon
+Full-Stack Engineer focused on scalable web applicaJons, cloud automaJon, and seamless producJon
 deployments. I build secure, high-performance systems designed to scale eﬃciently and run reliably in
 modern cloud environments.
 </h3>
