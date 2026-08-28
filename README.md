@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/8MupZHY.png" alt="Banner" width="400" />
 </p>
 
-<h1 align="center">Hi There 👋, I'm Aseem Gupta</h1>
+<h1 align="center">Hi 👋, I'm Aseem Gupta</h1>
 
 <h3 align="center">
 Full-Stack Engineer focused on scalable web applicaJons, cloud automaJon, and seamless producJon
